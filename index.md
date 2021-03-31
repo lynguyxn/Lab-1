@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Ly's User Page
 
-You can use the [editor on GitHub](https://github.com/lynguyxn/cse110-lab1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/64985802/113222230-6038e800-923b-11eb-8008-5743614842fb.jpeg" height="300"/> <img src="https://user-images.githubusercontent.com/64985802/113222512-0f75bf00-923c-11eb-9ff7-13e84513e1ce.jpg" height="300"/>
+</p>
 
 ### Markdown
 
