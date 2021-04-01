@@ -4,11 +4,11 @@
 <img src="https://user-images.githubusercontent.com/64985802/113222230-6038e800-923b-11eb-8008-5743614842fb.jpeg" height="300"/> <img src="https://user-images.githubusercontent.com/64985802/113223943-25d14a00-923f-11eb-83cf-bdd474a15669.jpeg" height="300"/> <img src="https://user-images.githubusercontent.com/64985802/113222512-0f75bf00-923c-11eb-9ff7-13e84513e1ce.jpg" height="300"/>
 </p>
 
-Hello! My name is Ly Nguyen, and I am currently a second year _Computer Science_ undergraduate at ***University of California, San Diego***.
+Hello! My name is Ly Nguyen, and I am currently a second year **Computer Science** undergraduate at University of California, San Diego.
 
 ### Ly The Programmer
 
-As a software engineer, I strive to develop for ***social good and empowerment***. I am extremely passionate about helping underprivileged communities through the innovation of new software and solutions.
+As a software engineer, I strive to develop for **social good and empowerment**. I am extremely passionate about helping underprivileged communities through the innovation of new software and solutions.
 
 My current experiences include:
 
