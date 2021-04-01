@@ -1,37 +1,44 @@
 ## Ly's User Page
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64985802/113222230-6038e800-923b-11eb-8008-5743614842fb.jpeg" height="300"/> <img src="https://user-images.githubusercontent.com/64985802/113222512-0f75bf00-923c-11eb-9ff7-13e84513e1ce.jpg" height="300"/>
+<img src="https://user-images.githubusercontent.com/64985802/113222230-6038e800-923b-11eb-8008-5743614842fb.jpeg" height="300"/> <img src="https://user-images.githubusercontent.com/64985802/113223943-25d14a00-923f-11eb-83cf-bdd474a15669.jpeg" height="300"/> <img src="https://user-images.githubusercontent.com/64985802/113222512-0f75bf00-923c-11eb-9ff7-13e84513e1ce.jpg" height="300"/>
 </p>
 
-### Markdown
+Hello! My name is Ly Nguyen, and I am currently a second year _Computer Science_ undergraduate at ***University of California, San Diego***.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Ly The Programmer
 
-```markdown
-Syntax highlighted code block
+As a _software engineer_, I strive to develop for ***social good and empowerment***. I am extremely passionate about helping underprivileged communities through the innovation of new software and solutions.
 
-# Header 1
-## Header 2
-### Header 3
+My current experiences include:
 
-- Bulleted
-- List
+- Developer Intern @ **San Diego Supercomputer Center**
+- Software Developer @ **Triton Software Engineering**
+- Software Developer @ **Yonder Deep**
 
-1. Numbered
-2. List
+My favorite programming language is Javascript! Arrow functions are cool.
 
-**Bold** and _Italic_ and `Code` text
+`perfect = (me, datA) => return "gimme dat A";`
 
-[Link](url) and ![Image](src)
-```
+### Ly The Person
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+My hobbies include exploring new food and boba places, looking at scenic views, hiking, shopping, gaming, and watching Korean dramas! I would also love to travel but unfortunately haven't gotten too many chances to :( I loveee adrenaline rushes so I would love to try activties like sky diving and bungee jumping!
 
-### Jekyll Themes
+Although no one asked, some of my life to-do list...
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lynguyxn/cse110-lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [x] Join a hackathon😎
+- [x] Ride a swan boat
+- [x] Archery (although I wasn't very good...
+- [ ] Go shopping without worrying about money🤑
+- [ ] Go to a shooting range
+- [ ] Travel to Korea, Japan, various cities in Europe, and basically everywhere
 
-### Support or Contact
+My music taste includes rnb, edm, and Korean music (pop, rnb, rap, etc.)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+IU is one of my favorite artists💕 Check her out [here](https://youtu.be/D1PvIWdJ8xo)!
+
+One of my favorite quotes that pushes me through difficult situations:
+
+> This too shall pass.
+
+[README.md for this project](./README.md)
