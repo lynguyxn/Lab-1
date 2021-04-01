@@ -1,3 +1,3 @@
-# Ly's User Page
+Ly's User Page
 
 https://lynguyxn.github.io/Lab-1/

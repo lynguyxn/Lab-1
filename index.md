@@ -8,7 +8,7 @@ Hello! My name is Ly Nguyen, and I am currently a second year _Computer Science_
 
 ### Ly The Programmer
 
-As a _software engineer_, I strive to develop for ***social good and empowerment***. I am extremely passionate about helping underprivileged communities through the innovation of new software and solutions.
+As a software engineer, I strive to develop for ***social good and empowerment***. I am extremely passionate about helping underprivileged communities through the innovation of new software and solutions.
 
 My current experiences include:
 
